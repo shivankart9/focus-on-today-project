@@ -47,7 +47,7 @@ main {
 
 .progress-value {
     height: 100% ;
-    width: 60%;
+    width: 0%;
     background-color: rgba(72, 163, 0, 1);
     border-radius: 15px;
     font-size: 10px;
